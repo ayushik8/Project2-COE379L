@@ -1,0 +1,6 @@
+flask==2.2.3
+opencv-python==4.7.0.72
+numpy
+pillow
+gunicorn
+h5py
